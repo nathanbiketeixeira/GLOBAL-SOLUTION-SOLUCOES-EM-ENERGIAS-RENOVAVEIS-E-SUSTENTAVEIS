@@ -1,11 +1,10 @@
 # Simulação do Impacto da Adoção de Energias Renováveis em Ambientes de Trabalho
 
-Este projeto simula o impacto da instalação de um sistema de energia solar 
-em um ambiente corporativo, estimando:
-- Geração de energia (kWh)
-- Economia financeira anual
-- Redução de CO2
-- Participação renovável no consumo total
+Este projeto analisa o efeito da implementação de um sistema de energia solar em uma empresa, avaliando:
+-Produção de eletricidade (kWh)
+- Relatório anual de finanças
+-Diminuição de dióxido de carbono
+- Contribuição sustentável na soma total do consumo
 
 ## Estrutura do Repositório
 📁 data/  
