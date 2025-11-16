@@ -1,9 +1,9 @@
 # Simulação do Impacto da Adoção de Energias Renováveis em Ambientes de Trabalho
 
 Este projeto analisa o efeito da implementação de um sistema de energia solar em uma empresa, avaliando:
--Produção de eletricidade (kWh)
--Relatório anual de finanças
--Diminuição de dióxido de carbono
+- Produção de eletricidade (kWh)
+- Relatório anual de finanças
+- Diminuição de dióxido de carbono
 - Contribuição sustentável na soma total do consumo
 
 ## Estrutura do Repositório
