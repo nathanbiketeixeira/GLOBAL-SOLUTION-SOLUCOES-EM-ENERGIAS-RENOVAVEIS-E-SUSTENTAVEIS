@@ -1,3 +1,18 @@
+# 🌱 GLOBAL SOLUTION – SOLUÇÕES EM ENERGIAS RENOVÁVEIS E SUSTENTÁVEIS
+
+**Autores:**
+
+- Nathan de Mello Teixeira – RM567429  
+- Victor Puglia Neves – RM567854  
+- Davi Capellotto Salles Raymundo dos Santos – RM567232
+
+---
+
+## Sobre o Projeto
+
+Este projeto simula o uso de energia renovável em ambientes de trabalho, analisando dados de consumo e estimando os impactos econômicos e ambientais de um sistema de painéis solares.
+
+
 # Simulação do Impacto da Adoção de Energias Renováveis em Ambientes de Trabalho
 
 Este projeto analisa o efeito da implementação de um sistema de energia solar em uma empresa, avaliando:
