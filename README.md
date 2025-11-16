@@ -13,8 +13,6 @@ Contém o arquivo de dados de consumo energético (consumo_mensal.csv)
 📁 src/  
 Contém o código Python usado na simulação (simulacao_renovavel.py)
 
-📁 resultados/  
-Pasta opcional para armazenar gráficos ou saídas do código.
 
 ## Como Executar
 
