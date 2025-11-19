@@ -43,3 +43,6 @@ Os resultados aparecerão no terminal.
 Desenvolver uma solução ligada ao futuro do trabalho, demonstrando como
 a adoção de energias renováveis pode tornar ambientes corporativos mais 
 eficientes e sustentáveis.
+
+## Link do Vídeo no Youtube
+https://youtu.be/MOLQL4PZQk0
